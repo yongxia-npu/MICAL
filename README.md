@@ -55,6 +55,7 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 - **3D APA-Net: 3D Adversarial Pyramid Anisotropic Convolutional Network for Prostate Segmentation in MR Images** (IEEE-TMI, 2020). [[pdf]](https://doi.org/10.1109/TMI.2019.2928056)
 
 ### Histology Image Analysis
+- **SDAE-GAN: Enable High-dimensional Pathological Images in Liver Cancer Survival Prediction with a Policy Gradient Based Data Augmentation Method** (MedIA, 2020) [[pdf]](https://doi.org/10.1016/j.media.2020.101640)
 - **Deep neural network models for computational histopathology: A survey** (2019) [[pdf]](http://t.cn/AisyZa3D)
 - **Deep Segmentation-Emendation Model for Gland Instance Segmentation** (MICCAI 2019). [[pdf]](https://doi.org/10.1007/978-3-030-32239-7_52)
 - **EMS-Net: Ensemble of Multiscale Convolutional Neural Networks for Classification of Breast Cancer Histology Images** (Neurocomputing, 2019) [[pdf]](https://doi.org/10.1016/j.neucom.2019.07.080)
