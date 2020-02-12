@@ -38,38 +38,38 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 - **Brain Tumor Segmentation on Multimodal MRI Using Multi-Level Upsampling in Decoder** (MICCAI 2018 Challenge on BraTS)
 
 ### Dementia Classification
-- **Disease-Image Specific Generative Adversarial Network for Brain Disease Diagnosis with Incomplete Multi-Modal Neuroimages** (MICCAI 2019).
-- **Synthesizing Missing PET from MRI with Cycle-consistent Generative Adversarial Networks for Alzheimer’s Disease Diagnosis** (MICCAI 2018).
+- **Disease-Image Specific Generative Adversarial Network for Brain Disease Diagnosis with Incomplete Multi-Modal Neuroimages** (MICCAI 2019). [[pdf]](https://doi.org/10.1007/978-3-030-32248-9_16)
+- **Synthesizing Missing PET from MRI with Cycle-consistent Generative Adversarial Networks for Alzheimer’s Disease Diagnosis** (MICCAI 2018). [[pdf]](https://doi.org/10.1007/978-3-030-00931-1_52)
 
 ### Lung Nodule Detection / Segmentation / Classification
 - **Semi-supervised adversarial model for benign–malignant lung nodule classification on chest CT** (MedIA, 2019). [[pdf]](https://doi.org/10.1016/j.media.2019.07.004)
 - **Knowledge-based Collaborative Deep Learning for Benign-Malignant Lung Nodule Classification on Chest CT** ((IEEE-TMI, 2019). [[pdf]](https://doi.org/10.1109/TMI.2018.2876510)
 - **Fusing Texture, Shape and Deep Model-Learned Information at Decision Level for Automated Classification of Lung Nodules on Chest CT** (Information Fusion, 2018) [[pdf]](https://doi.org/10.1016/j.inffus.2017.10.005)
-- **Transferable Multi-model Ensemble for Benign-Malignant Lung Nodule Classification on Chest CT** (MICCAI 2017).
+- **Transferable Multi-model Ensemble for Benign-Malignant Lung Nodule Classification on Chest CT** (MICCAI 2017). [[pdf]](https://doi.org/10.1007/978-3-319-66179-7_75)
 
 ### Liver Segmentation
-- **Light-Weight Hybrid Convolutional Network for Liver Tumor Segmentation** (IJCAI 2019).
+- **Light-Weight Hybrid Convolutional Network for Liver Tumor Segmentation** (IJCAI 2019). [[pdf]](https://doi.org/10.24963/ijcai.2019/593)
 
 ### Prostate Segmentation
-- **HD-Net: Hybrid Discriminative Network for Prostate Segmentation in MR Images** (MICCAI 2019).
+- **HD-Net: Hybrid Discriminative Network for Prostate Segmentation in MR Images** (MICCAI 2019). [[pdf]](https://doi.org/10.1007/978-3-030-32245-8_13)
 - **3D APA-Net: 3D Adversarial Pyramid Anisotropic Convolutional Network for Prostate Segmentation in MR Images** (IEEE-TMI, 2020). [[pdf]](https://doi.org/10.1109/TMI.2019.2928056)
 
 ### Histology Image Analysis
 - **Deep neural network models for computational histopathology: A survey** (2019) [[pdf]](http://t.cn/AisyZa3D)
-- **Deep Segmentation-Emendation Model for Gland Instance Segmentation** (MICCAI 2019).
+- **Deep Segmentation-Emendation Model for Gland Instance Segmentation** (MICCAI 2019). [[pdf]](https://doi.org/10.1007/978-3-030-32239-7_52)
 - **EMS-Net: Ensemble of Multiscale Convolutional Neural Networks for Classification of Breast Cancer Histology Images** (Neurocomputing, 2019) [[pdf]](https://doi.org/10.1016/j.neucom.2019.07.080)
 
 ### X-Ray Image Analysis
 - **Thorax-Net: An Attention Regularized Deep Neural Network for Classification of Thoracic Diseases on Chest Radiography** (IEEE-JBHI, 2020). [[pdf]](https://doi.org/10.1109/JBHI.2019.2928369)
 
 ### Fundus Image Analysis
-- **Vessel-Net: Retinal Vessel Segmentation under Multi-path Supervision** (MICCAI 2019).
-- **Multiscale Network Followed Network Model for Retinal Vessel Segmentation** (MICCAI 2018).
+- **Vessel-Net: Retinal Vessel Segmentation under Multi-path Supervision** (MICCAI 2019). [[pdf]](https://doi.org/10.1007/978-3-030-32239-7_30)
+- **Multiscale Network Followed Network Model for Retinal Vessel Segmentation** (MICCAI 2018). [[pdf]](https://doi.org/10.1007/978-3-030-00934-2_14)
 
 ### Skin Lesion Analysis
+- **A Mutual Bootstrapping Model for Automated Skin Lesion Segmentation and Classification** (IEEE-TMI, 2020). [[pdf]](https://doi.org/10.1109/TMI.2020.2972964)
 - **Medical image classification using synergic deep learning** ((MedIA, 2019). [[pdf]](https://doi.org/10.1016/j.media.2019.02.010)
 - **Attention Residual Learning for Skin Lesion Classification** ((IEEE-TMI, 2019). [[pdf]](https://doi.org/10.1109/TMI.2019.2893944)
-- **A Mutual Bootstrapping Model for Automated Skin Lesion Segmentation and Classification** (IEEE-TMI, 2020). [[pdf]](https://arxiv.org/abs/1903.03313)
 
 ### Other Applications
 - **Classification of medical images in the biomedical literature by jointly using deep and handcrafted visual features** (IEEE-JBHI, 2018). [[pdf]](https://arxiv.org/10.1109/JBHI.2017.2775662)
