@@ -33,6 +33,7 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 
 ### Brain Tumor Segmentation
 - **RatLesNetv2: A Fully Convolutional Network for Rodent Brain Lesion Segmentation** (2020) [[pdf]](http://t.cn/A6PMbgr0) [[GitHub]](http://t.cn/A6PMbgrW)
+- **3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI**(MICCAI 2019) [[GitHub]](http://t.cn/AisKQ7p8)
 - **Improving Brain Tumor Segmentation in Multi-sequence MR Images Using Cross-sequence MR Image Generation** (MICCAI 2019 Challenge on BraTS)
 - **Brain Tumor Segmentation on Multimodal MRI Using Multi-Level Upsampling in Decoder** (MICCAI 2018 Challenge on BraTS)
 
