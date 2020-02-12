@@ -22,6 +22,7 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 - **M3Net: A multi-model, multi-size, and multi-view deep neural network for brain magnetic resonance image segmentation** (PR, 2019). [[pdf]](https://doi.org/10.1016/j.patcog.2019.03.004)
 
 ### Brain Tumor Segmentation
+- **RatLesNetv2: A Fully Convolutional Network for Rodent Brain Lesion Segmentation** (2020) [[pdf]](http://t.cn/A6PMbgr0) [[GitHub]](http://t.cn/A6PMbgrW)
 - **Improving Brain Tumor Segmentation in Multi-sequence MR Images Using Cross-sequence MR Image Generation** (MICCAI 2019 Challenge on BraTS)
 - **Brain Tumor Segmentation on Multimodal MRI Using Multi-Level Upsampling in Decoder** (MICCAI 2018 Challenge on BraTS)
 
