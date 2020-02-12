@@ -6,14 +6,38 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 
 ## Table of Topics
 * [Brain Image Segmentation](#brain--image--segmentation)
+* [Lung Nodule Detection / Segmentation / Classification](#lung--nodule--detection--segmentation--classification)
+* [Prostate Segmentation](#prostate--segmentation)
+* [Histology Image Analysis](#histology--image-analysis)
 * [X-Ray Image Analysis](#x-ray--image-analysis)
 * [Skin Lesion Analysis](#skin--lesion--analysis)
+* [Other Applications](#other--applications)
+* [Feature Engineering Techniques](#feature-engineering-techniques)
 
 ### Brain Image Segmentation
-- **M3Net: A multi-model, multi-size, and multi-view deep neural network for brain magnetic resonance image segmentation** (2019), Jie Wei, and Yong Xia*. [[pdf]](https://doi.org/10.1016/j.patcog.2019.03.004)
+- **M3Net: A multi-model, multi-size, and multi-view deep neural network for brain magnetic resonance image segmentation** (PR, 2019). [[pdf]](https://doi.org/10.1016/j.patcog.2019.03.004)
+
+### Lung Nodule Detection / Segmentation / Classification
+- **Fusing Texture, Shape and Deep Model-Learned Information at Decision Level for Automated Classification of Lung Nodules on Chest CT** (Information Fusion, 2018) [[pdf]](https://doi.org/10.1016/j.inffus.2017.10.005)
+- **Knowledge-based Collaborative Deep Learning for Benign-Malignant Lung Nodule Classification on Chest CT** ((IEEE-TMI, 2019). [[pdf]](https://doi.org/10.1109/TMI.2018.2876510)
+- **Semi-supervised adversarial model for benign–malignant lung nodule classification on chest CT** (MedIA, 2019). [[pdf]](https://doi.org/10.1016/j.media.2019.07.004)
+
+### Prostate Segmentation
+- **3D APA-Net: 3D Adversarial Pyramid Anisotropic Convolutional Network for Prostate Segmentation in MR Images** (IEEE-TMI, 2020). [[pdf]](https://doi.org/10.1109/TMI.2019.2928056)
+
+### Histology Image Analysis
+- **EMS-Net: Ensemble of Multiscale Convolutional Neural Networks for Classification of Breast Cancer Histology Images** (Neurocomputing, 2019) [[pdf]](https://doi.org/10.1016/j.neucom.2019.07.080)
 
 ### X-Ray Image Analysis
-- **Thorax-Net: An Attention Regularized Deep Neural Network for Classification of Thoracic Diseases on Chest Radiography** (2020), Hongyu Wang, Haozhe Jia, Le Lu, and Yong Xia*. [[pdf]](https://doi.org/10.1109/JBHI.2019.2928369)
+- **Thorax-Net: An Attention Regularized Deep Neural Network for Classification of Thoracic Diseases on Chest Radiography** (IEEE-JBHI, 2020). [[pdf]](https://doi.org/10.1109/JBHI.2019.2928369)
 
 ### Skin Lesion Analysis
-- **A Mutual Bootstrapping Model for Automated Skin Lesion Segmentation and Classification** (2019), Yutong Xie, Jianpeng Zhang, Yong Xia*, and Chunhua Shen. [[pdf]](https://arxiv.org/abs/1903.03313)
+- **Medical image classification using synergic deep learning** ((MedIA, 2019). [[pdf]](https://doi.org/10.1016/j.media.2019.02.010)
+- **Attention Residual Learning for Skin Lesion Classification** ((IEEE-TMI, 2019). [[pdf]](https://doi.org/10.1109/TMI.2019.2893944)
+- **A Mutual Bootstrapping Model for Automated Skin Lesion Segmentation and Classification** (IEEE-TMI, 2020). [[pdf]](https://arxiv.org/abs/1903.03313)
+
+### Other Applications
+- **Classification of medical images in the biomedical literature by jointly using deep and handcrafted visual features** (IEEE-JBHI, 2018). [[pdf]](https://arxiv.org/10.1109/JBHI.2017.2775662)
+
+### Feature Engineering Techniques
+- **Foreground Fisher Vector: Encoding Class-Relevant Foreground to Improve Image Classification**  (IEEE-TIP, 2019). [[pdf]](https://doi.org/10.1109/TIP.2019.2908795)
