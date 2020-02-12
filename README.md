@@ -5,6 +5,8 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 ## Background
 
 ## Table of Topics
+* [SNC Papers](#SNC--papers)
+* [Medical Image Segmentation](#medical--image--segmentation)
 * [Brain Image Segmentation](#brain--image--segmentation)
 * [Brain Tumor Segmentation](#brain--tumor--segmentation)
 * [Dementia Classification](#dementia--classification)
@@ -17,6 +19,14 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 * [Skin Lesion Analysis](#skin--lesion--analysis)
 * [Other Applications](#other--applications)
 * [Feature Engineering Techniques](#feature-engineering-techniques)
+
+### SNC Papers
+- **International evaluation of an AI system for breast cancer screening** (Nature, 2019) [[pdf]](http://t.cn/AisPisuk)
+- **A comparison of deep learning performance against health-care professionals in detecting diseases from medical imaging: a systematic review and meta-analysis** (Lancet, 2019) [[pdf]](http://t.cn/AinmMwk2) 
+
+### Medical Image Segmentation
+- **Unpaired Multi-modal Segmentation via Knowledge Distillation** (IEEE-TMI, 2020) [[pdf]](http://t.cn/AisEo63h) [[GitHub]](http://t.cn/AisEo6us)
+- **Multi-organ Segmentation over Partially Labeled Datasets with Multi-scale Feature Abstraction** (2020) [[pdf]](http://t.cn/AisMUNkB) [[GitHub]](http://t.cn/AisMUNkg)
 
 ### Brain Image Segmentation
 - **M3Net: A multi-model, multi-size, and multi-view deep neural network for brain magnetic resonance image segmentation** (PR, 2019). [[pdf]](https://doi.org/10.1016/j.patcog.2019.03.004)
@@ -44,6 +54,7 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 - **3D APA-Net: 3D Adversarial Pyramid Anisotropic Convolutional Network for Prostate Segmentation in MR Images** (IEEE-TMI, 2020). [[pdf]](https://doi.org/10.1109/TMI.2019.2928056)
 
 ### Histology Image Analysis
+- **Deep neural network models for computational histopathology: A survey** (2019) [[pdf]](http://t.cn/AisyZa3D)
 - **Deep Segmentation-Emendation Model for Gland Instance Segmentation** (MICCAI 2019).
 - **EMS-Net: Ensemble of Multiscale Convolutional Neural Networks for Classification of Breast Cancer Histology Images** (Neurocomputing, 2019) [[pdf]](https://doi.org/10.1016/j.neucom.2019.07.080)
 
