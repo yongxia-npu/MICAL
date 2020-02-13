@@ -35,12 +35,23 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 ### Brain Tumor Segmentation
 - **RatLesNetv2: A Fully Convolutional Network for Rodent Brain Lesion Segmentation** (2020) [[pdf]](http://t.cn/A6PMbgr0) [[GitHub]](http://t.cn/A6PMbgrW)
 - **3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI**(MICCAI 2019) [[GitHub]](http://t.cn/AisKQ7p8)
+- **Self-supervised Feature Learning for 3D Medical Images by Playing a Rubik's Cube** (2019). [[pdf]](https://arxiv.org/pdf/1910.02241)
 - **Improving Brain Tumor Segmentation in Multi-sequence MR Images Using Cross-sequence MR Image Generation** (MICCAI 2019 Challenge on BraTS)
 - **Brain Tumor Segmentation on Multimodal MRI Using Multi-Level Upsampling in Decoder** (MICCAI 2018 Challenge on BraTS)
 
 ### Intracranial Hemorrhage Detection
 - **Advanced machine learning in action: identification of intracranial hemorrhage on computed tomography scans of the head with clinical workflow integration** (npj Digital Medicine, 2018). [[pdf]](https://doi.org/10.1038/s41746-017-0015-z)
-- **RADNET: Radiologist Level Accuracy using Deep Learning for HEMORRHAGE detection in CT Scans** (2017). [[pdf]](https://arxiv.org/abs/1710.04934)
+- **Extracting 2D weak labels from volume labels using multiple instance learning in CT hemorrhage detection** (2019). [[pdf]](https://arxiv.org/pdf/1911.05650)
+- **Intracranial Hemorrhage Segmentation Using Deep Convolutional Model** (2019). [[pdf]](https://arxiv.org/pdf/1910.08643)
+- **Improved ICH classification using task-dependent learning** (ISBI 2019). [[pdf]](https://arxiv.org/pdf/1907.00148)
+- **Multi-Scale Attentional Network for Multi-Focal Segmentation of Active Bleed after Pelvic Fractures** (MICCAI-MLMI 2019). [[pdf]](https://arxiv.org/pdf/1906.09540)
+- **A GLCM Embedded CNN Strategy for Computer-aided Diagnosis in Intracerebral Hemorrhage** (2019). [[pdf]](https://arxiv.org/pdf/1906.02040)
+- **Cost-Sensitive Active Learning for Intracranial Hemorrhage Detection** (2018). [[pdf]](https://arxiv.org/pdf/1809.02882)
+- **Machine Friendly Machine Learning: Interpretation of Computed Tomography Without Image Reconstruction** (2019). [[pdf]](https://arxiv.org/pdf/1812.01068)
+- **RADNET: Radiologist Level Accuracy using Deep Learning for HEMORRHAGE detection in CT Scans** (2018 ISBI). [[pdf]](https://arxiv.org/abs/1710.04934)
+- **Practical Window Setting Optimization for Medical Image Deep Learning** (ML4H 2018). [[pdf]](https://arxiv.org/pdf/1812.00572)
+- **PatchFCN for Intracranial Hemorrhage Detection** (2018). [[pdf]](https://arxiv.org/pdf/1806.03265)
+- **Development and Validation of Deep Learning Algorithms for Detection of Critical Findings in Head CT Scans** (2018). [[pdf]](https://arxiv.org/pdf/1803.05854)
 - **RSNA Intracranial Hemorrhage Detection Challenge** [[Webpage]](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/overview)
 - **1st Place Solution** [[Webpage]](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117210#latest-682640)
 - **2nd Place Solution** [[Webpage]](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117228)
@@ -65,7 +76,7 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 
 ### Histology Image Analysis
 - **SDAE-GAN: Enable High-dimensional Pathological Images in Liver Cancer Survival Prediction with a Policy Gradient Based Data Augmentation Method** (MedIA, 2020) [[pdf]](https://doi.org/10.1016/j.media.2020.101640)
-- **Deep neural network models for computational histopathology: A survey** (2019) [[pdf]](http://t.cn/AisyZa3D)
+- **Deep neural network models for computational histopathology: A survey** (2019). [[pdf]](http://t.cn/AisyZa3D)
 - **Deep Segmentation-Emendation Model for Gland Instance Segmentation** (MICCAI 2019). [[pdf]](https://doi.org/10.1007/978-3-030-32239-7_52)
 - **EMS-Net: Ensemble of Multiscale Convolutional Neural Networks for Classification of Breast Cancer Histology Images** (Neurocomputing, 2019) [[pdf]](https://doi.org/10.1016/j.neucom.2019.07.080)
 
@@ -74,6 +85,9 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 
 ### Fundus Image Analysis
 - **Vessel-Net: Retinal Vessel Segmentation under Multi-path Supervision** (MICCAI 2019). [[pdf]](https://doi.org/10.1007/978-3-030-32239-7_30)
+- **Deep Retinal Image Segmentation with Regularization Under Geometric Priors** (2019). [[pdf]](https://arxiv.org/pdf/1909.09175)
+- **Fully Convolutional Neural Network for Semantic Segmentation of Anatomical Structure and Pathologies in Colour Fundus Images Associated with Diabetic Retinopathy** (2019). [[pdf]](https://arxiv.org/pdf/1902.03122)
+- **BTS-DSN: Deeply Supervised Neural Network with Short Connections for Retinal Vessel Segmentation** (2018). [[pdf]](https://arxiv.org/pdf/1803.03963)
 - **Multiscale Network Followed Network Model for Retinal Vessel Segmentation** (MICCAI 2018). [[pdf]](https://doi.org/10.1007/978-3-030-00934-2_14)
 
 ### Skin Lesion Analysis
