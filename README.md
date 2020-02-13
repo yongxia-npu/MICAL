@@ -9,6 +9,7 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 * [Medical Image Segmentation](#medical--image--segmentation)
 * [Brain Image Segmentation](#brain--image--segmentation)
 * [Brain Tumor Segmentation](#brain--tumor--segmentation)
+* [Intracranial Hemorrhage Detection](#intracranial--hemorrhage--detection)
 * [Dementia Classification](#dementia--classification)
 * [Lung Nodule Detection / Segmentation / Classification](#lung--nodule--detection--segmentation--classification)
 * [Liver Segmentation](#liver--segmentation)
@@ -36,6 +37,14 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 - **3D Dilated Multi-Fiber Network for Real-time Brain Tumor Segmentation in MRI**(MICCAI 2019) [[GitHub]](http://t.cn/AisKQ7p8)
 - **Improving Brain Tumor Segmentation in Multi-sequence MR Images Using Cross-sequence MR Image Generation** (MICCAI 2019 Challenge on BraTS)
 - **Brain Tumor Segmentation on Multimodal MRI Using Multi-Level Upsampling in Decoder** (MICCAI 2018 Challenge on BraTS)
+
+### Intracranial Hemorrhage Detection
+- **Advanced machine learning in action: identification of intracranial hemorrhage on computed tomography scans of the head with clinical workflow integration** (npj Digital Medicine, 2018). [[pdf]](https://doi.org/10.1038/s41746-017-0015-z)
+- **RADNET: Radiologist Level Accuracy using Deep Learning for HEMORRHAGE detection in CT Scans** (2017). [[pdf]](https://arxiv.org/abs/1710.04934)
+- **RSNA Intracranial Hemorrhage Detection Challenge** [[Webpage]](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/overview)
+- **1st Place Solution** [[Webpage]](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117210#latest-682640)
+- **2nd Place Solution** [[Webpage]](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117228)
+- **12 Gold Medal Solutions** [[Webpage]](https://www.kaggle.com/c/rsna-intracranial-hemorrhage-detection/discussion/117242)
 
 ### Dementia Classification
 - **Disease-Image Specific Generative Adversarial Network for Brain Disease Diagnosis with Incomplete Multi-Modal Neuroimages** (MICCAI 2019). [[pdf]](https://doi.org/10.1007/978-3-030-32248-9_16)
