@@ -7,6 +7,8 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 ## Table of Topics
 * [SNC Papers](#SNC--papers)
 * [Medical Image Segmentation](#medical--image--segmentation)
+* [Medical Image Registration](#medical--image--registration)
+* [Explainable Medical Decision Making](#explainable--medical--decision--making)
 * [Brain Image Segmentation](#brain--image--segmentation)
 * [Brain Tumor Segmentation](#brain--tumor--segmentation)
 * [Intracranial Hemorrhage Detection](#intracranial--hemorrhage--detection)
@@ -19,7 +21,11 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 * [Fundus Image Analysis](#fundus--image-analysis)
 * [Skin Lesion Analysis](#skin--lesion--analysis)
 * [Other Applications](#other--applications)
+* [Medical Image Datasets](#medical--image--datasets)
+* [Toolboxes](#toolboxes)
 * [Feature Engineering Techniques](#feature-engineering-techniques)
+* [Image Generation](#image--generation)
+* [Transfer Learning](#transfer--learning)
 
 ### SNC Papers
 - **International evaluation of an AI system for breast cancer screening** (Nature, 2019) [[pdf]](http://t.cn/AisPisuk)
@@ -28,6 +34,24 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 ### Medical Image Segmentation
 - **Unpaired Multi-modal Segmentation via Knowledge Distillation** (IEEE-TMI, 2020) [[pdf]](http://t.cn/AisEo63h) [[GitHub]](http://t.cn/AisEo6us)
 - **Multi-organ Segmentation over Partially Labeled Datasets with Multi-scale Feature Abstraction** (2020) [[pdf]](http://t.cn/AisMUNkB) [[GitHub]](http://t.cn/AisMUNkg)
+- **Multimodal Self-Supervised Learning for Medical Image Analysis** (2019) [[pdf]](http://t.cn/AiD4mii9)
+- **Deep Semantic Segmentation of Natural and Medical Images: A Review** (2019) [[pdf]](http://t.cn/Ai1MZQ44)
+- **Learning Active Contour Models for Medical Image Segmentation** (CVPR 2019) [[pdf]](https://ieeexplore.ieee.org/document/8953484) [[GitHub]](http://t.cn/AiutX7Sl)
+- **Multi-scale Guided Attention for Medical Image Segmentation** (2019) [[pdf]](https://arxiv.org/abs/1906.02849) [[GitHub]](http://t.cn/Aiuyh3ma)
+- **U-Net Fixed-Point Quantization for Medical Image Segmentation** (MICCAI 2019) [[pdf]](https://arxiv.org/abs/1908.01073v2) [[GitHub]](http://t.cn/AiTEZjfa)
+- **Supervised Uncertainty Quantification for Segmentation with Multiple Annotations** (2019) [[pdf]](http://t.cn/AiOhJxQY)
+- **PHiSeg: Capturing Uncertainty in Medical Image Segmentation** (2019) [[pdf]](http://t.cn/AiNtEXOu)
+- **Med3D: Transfer Learning for 3D Medical Image Analysis** (2019) [[pdf]](https://arxiv.org/abs/1904.00625) [[GitHub]](http://t.cn/AilaXL3Y)
+- **Loss functions for image segmentation - A collection of loss functions for medical image segmentation** by Jun. [[GitHub]](http://t.cn/AiHUZcEX)
+- **SOTA-MedSeg - SOTA medical image segmentation methods based on various challenges** by JunMa11. [[GitHub]](http://t.cn/AiWqlfWw)
+
+### Medical Image Registration
+- **Deep Learning in Medical Image Registration: A Review** (2019) [[pdf]](http://t.cn/Aisv9K7O)
+- **Automated Image Registration Quality Assessment Utilizing Deep-learning based Ventricle Extraction in Clinical Data** (2019) [[pdf]](http://t.cn/Ai0QJtOS)
+- **FAIM - A ConvNet Method for Unsupervised 3D Medical Image Registration** (MICCAI 2018) [[pdf]](http://arxiv.org/abs/1811.09243) [[GitHub]](http://t.cn/Ai3jAzh1)
+
+### Explainable Medical Decision Making
+- **Co-Attentive Cross-Modal Deep Learning for Medical Evidence Synthesis and Decision Making** (2019) [[pdf]](http://t.cn/AiEePpSl)
 
 ### Brain Image Segmentation
 - **M3Net: A multi-model, multi-size, and multi-view deep neural network for brain magnetic resonance image segmentation** (PR, 2019). [[pdf]](https://doi.org/10.1016/j.patcog.2019.03.004)
@@ -79,9 +103,12 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 - **Deep neural network models for computational histopathology: A survey** (2019). [[pdf]](http://t.cn/AisyZa3D)
 - **Deep Segmentation-Emendation Model for Gland Instance Segmentation** (MICCAI 2019). [[pdf]](https://doi.org/10.1007/978-3-030-32239-7_52)
 - **EMS-Net: Ensemble of Multiscale Convolutional Neural Networks for Classification of Breast Cancer Histology Images** (Neurocomputing, 2019) [[pdf]](https://doi.org/10.1016/j.neucom.2019.07.080)
+- **Unpaired Multi-modal Segmentation via Knowledge Distillation** (2019) [[pdf]](http://t.cn/Ai1Spknd) [[GitHub]](http://t.cn/Ai1Spkng)
+- **Generative Image Translation for Data Augmentation in Colorectal Histopathology Images** (2019) [[pdf]](http://t.cn/Ai3wszRD) [[GitHub]](http://t.cn/Ai3wszRk)
 
 ### X-Ray Image Analysis
 - **Thorax-Net: An Attention Regularized Deep Neural Network for Classification of Thoracic Diseases on Chest Radiography** (IEEE-JBHI, 2020). [[pdf]](https://doi.org/10.1109/JBHI.2019.2928369)
+- **Exploring large scale public medical image datasets** (2019) [[pdf]](http://t.cn/AiTXzOUG)
 
 ### Fundus Image Analysis
 - **Vessel-Net: Retinal Vessel Segmentation under Multi-path Supervision** (MICCAI 2019). [[pdf]](https://doi.org/10.1007/978-3-030-32239-7_30)
@@ -92,11 +119,25 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 
 ### Skin Lesion Analysis
 - **A Mutual Bootstrapping Model for Automated Skin Lesion Segmentation and Classification** (IEEE-TMI, 2020). [[pdf]](https://doi.org/10.1109/TMI.2020.2972964)
-- **Medical image classification using synergic deep learning** ((MedIA, 2019). [[pdf]](https://doi.org/10.1016/j.media.2019.02.010)
-- **Attention Residual Learning for Skin Lesion Classification** ((IEEE-TMI, 2019). [[pdf]](https://doi.org/10.1109/TMI.2019.2893944)
+- **Medical image classification using synergic deep learning** (MedIA, 2019). [[pdf]](https://doi.org/10.1016/j.media.2019.02.010)
+- **Attention Residual Learning for Skin Lesion Classification** (IEEE-TMI, 2019). [[pdf]](https://doi.org/10.1109/TMI.2019.2893944)
 
 ### Other Applications
 - **Classification of medical images in the biomedical literature by jointly using deep and handcrafted visual features** (IEEE-JBHI, 2018). [[pdf]](https://arxiv.org/10.1109/JBHI.2017.2775662)
 
+### Medical Image Datasets
+- **EchoNet Dynamic - A Large New Cardiac Motion Video Data Resource for Medical Machine Learning.** [[GitHub]](https://echonet.github.io/dynamic/)
+- **List of Medical Datasets - tracking medical datasets, with a focus on medical imaging** by Adrian Dalca. [[GitHub]](http://t.cn/AiQIgd2w)
+
+### Toolboxes
+- **MONAI - AI Toolkit for Healthcare Imaging.** [[GitHub]](https://github.com/Project-MONAI/MONAI)
+
 ### Feature Engineering Techniques
 - **Foreground Fisher Vector: Encoding Class-Relevant Foreground to Improve Image Classification**  (IEEE-TIP, 2019). [[pdf]](https://doi.org/10.1109/TIP.2019.2908795)
+
+### Image Generation
+- **Kernel of CycleGAN as a Principle homogeneous space** (2020). [[pdf]](http://t.cn/A6PMbAuT)
+- **Automatic Online Quality Control of Synthetic CTs** (2019). [[pdf]](http://t.cn/AirsZn1i)
+
+### Transfer Learning
+- **Transfusion: Understanding Transfer Learning for Medical Imaging** (2019). [[pdf]](http://t.cn/EfVxCSM) [[Blog]](http://t.cn/AieK8bJY)
