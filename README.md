@@ -5,10 +5,10 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 ## Background
 
 ## Table of Topics
-* [SNC Papers](#SNC--papers)
-* [Medical Image Segmentation](#medical--image--segmentation)
-* [Medical Image Registration](#medical--image--registration)
-* [Explainable Medical Decision Making](#explainable--medical--decision--making)
+* [SNC Papers](#SNC-papers)
+* [Medical Image Segmentation](#medical-image-segmentation)
+* [Medical Image Registration](#medical-image-registration)
+* [Explainable Medical Decision Making](#explainable-medical-decision-making)
 * [Brain Image Segmentation](#brain--image--segmentation)
 * [Brain Tumor Segmentation](#brain--tumor--segmentation)
 * [Intracranial Hemorrhage Detection](#intracranial--hemorrhage--detection)
