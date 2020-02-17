@@ -30,6 +30,7 @@ I plan to build a curated list of deep learning papers (and sourcecode) publishe
 ## SNC Papers
 - **International evaluation of an AI system for breast cancer screening** (Nature, 2019) [[pdf]](http://t.cn/AisPisuk)
 - **A comparison of deep learning performance against health-care professionals in detecting diseases from medical imaging: a systematic review and meta-analysis** (Lancet, 2019) [[pdf]](http://t.cn/AinmMwk2) 
+- **The unreasonable effectiveness of deep learning in artificial intelligence** (PNAS 2020). [[pdf]](https://www.pnas.org/content/pnas/early/2020/01/23/1907373117.full.pdf)
 
 ## Medical Image Segmentation
 - **Unpaired Multi-modal Segmentation via Knowledge Distillation** (IEEE-TMI, 2020) [[pdf]](http://t.cn/AisEo63h) [[GitHub]](http://t.cn/AisEo6us)
